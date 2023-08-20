@@ -1,5 +1,5 @@
 # Risk_Prediction_Model-R_Script
-The repository contains R scripts we used for the master thesis "Risk Prediction Model: Assessing the evolution of risk factors to use in the calculation of new dynamic risk scores".
+The repository contains R scripts we used for the master thesis "Risk Prediction Model: Assessing the evolution of risk factors to use in the calculation of new dynamic risk scores". The source code can be access via this Githut link https://github.com/adhithya-unni/Risk_Prediction_Model-R_Script/tree/main.
 
 # Data extractions and preprocessing
 "Data_extraction.R" file contains all the extractions we have done from the IMA database. Make sure to run this file first.
